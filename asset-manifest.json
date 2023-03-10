@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rentcarapp/static/css/main.9d1018c3.css",
-    "main.js": "/rentcarapp/static/js/main.fc8a52c0.js",
+    "main.js": "/rentcarapp/static/js/main.749a0415.js",
     "static/media/remixicon.svg?t=1590207869815": "/rentcarapp/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/car5.png": "/rentcarapp/static/media/car5.9c0bf135709bb9e02475.png",
     "static/media/remixicon.eot?t=1590207869815": "/rentcarapp/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -24,10 +24,10 @@
     "static/media/slick.woff": "/rentcarapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rentcarapp/index.html",
     "main.9d1018c3.css.map": "/rentcarapp/static/css/main.9d1018c3.css.map",
-    "main.fc8a52c0.js.map": "/rentcarapp/static/js/main.fc8a52c0.js.map"
+    "main.749a0415.js.map": "/rentcarapp/static/js/main.749a0415.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1018c3.css",
-    "static/js/main.fc8a52c0.js"
+    "static/js/main.749a0415.js"
   ]
 }
