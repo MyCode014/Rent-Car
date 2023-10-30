@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/rentcarapp/static/css/main.08d6007c.css",
-    "main.js": "/rentcarapp/static/js/main.d6ec46a1.js",
+    "main.css": "/rentcarapp/static/css/main.ba84bfd3.css",
+    "main.js": "/rentcarapp/static/js/main.1d6aad58.js",
     "static/media/remixicon.svg?t=1590207869815": "/rentcarapp/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/car5.png": "/rentcarapp/static/media/car5.9c0bf135709bb9e02475.png",
+    "static/media/car5.png": "/rentcarapp/static/media/car5.5926cc9b97f87ed62eca.png",
     "static/media/remixicon.eot?t=1590207869815": "/rentcarapp/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/rentcarapp/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/rentcarapp/static/media/remixicon.8d09fa11700ed63cf96e.woff",
@@ -14,20 +14,20 @@
     "static/media/carback.jpg": "/rentcarapp/static/media/carback.9182e5e4cfcd75cfedeb.jpg",
     "static/media/car1.png": "/rentcarapp/static/media/car1.c50cb69810b01e728959.png",
     "static/media/toyota-offer-2.png": "/rentcarapp/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
-    "static/media/car2.png": "/rentcarapp/static/media/car2.1c039fca95ac4c4d7584.png",
+    "static/media/car2.png": "/rentcarapp/static/media/car2.a6eb2f533da1bd360723.png",
     "static/media/car.png": "/rentcarapp/static/media/car.8a9dd890f562f66be9d6.png",
-    "static/media/car3.png": "/rentcarapp/static/media/car3.12539438fd4027a92021.png",
     "static/media/car4.png": "/rentcarapp/static/media/car4.9cf9cb06a76dcbb73915.png",
+    "static/media/car3.png": "/rentcarapp/static/media/car3.cc56cde9321e022fc2aa.png",
     "static/media/slick.svg": "/rentcarapp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/rentcarapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/rentcarapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/rentcarapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rentcarapp/index.html",
-    "main.08d6007c.css.map": "/rentcarapp/static/css/main.08d6007c.css.map",
-    "main.d6ec46a1.js.map": "/rentcarapp/static/js/main.d6ec46a1.js.map"
+    "main.ba84bfd3.css.map": "/rentcarapp/static/css/main.ba84bfd3.css.map",
+    "main.1d6aad58.js.map": "/rentcarapp/static/js/main.1d6aad58.js.map"
   },
   "entrypoints": [
-    "static/css/main.08d6007c.css",
-    "static/js/main.d6ec46a1.js"
+    "static/css/main.ba84bfd3.css",
+    "static/js/main.1d6aad58.js"
   ]
 }
